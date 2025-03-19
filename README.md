@@ -1,6 +1,65 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+**Bienvenue sur mon Portfolio**
+Merci d’avoir pris le temps de visiter mon portfolio. Si vous êtes ici, c’est que mon profil a retenu votre attention, et j’en suis ravi ! Vous trouverez ici plus de détails sur mes projets, compétences et expériences. Bonne lecture !
+
+## À propos de moi
+
+Actuellement en alternance chez Okaïdi au sein du pôle Performance Client, j’ai développé de solides compétences en data science appliquée au CRM et au marketing. J’ai notamment construit un **score d’appétence SMS** pour optimiser l’engagement client et réalisé des analyses approfondies sur la **segmentation client**.
+
+Maîtrisant **SQL, Python, Looker et BigQuery sur GCP**, j’ai mené des analyses et construit des modèles permettant d’optimiser la **connaissance client** et l’**efficacité des campagnes marketing**.
+
+Je suis à la recherche d’une **nouvelle opportunité en data à partir de septembre 2025**. N’hésitez pas à me contacter pour en discuter !
+
+📩 **Contactez-moi :**  
+- [LinkedIn](https://www.linkedin.com/in/ton-lien)  
+- 📧 Email : [ton.email@example.com](mailto:ton.email@example.com)
+
+# Compétences Techniques 🚀
+
+### Langages  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SAS](https://img.shields.io/badge/SAS-003366?style=for-the-badge&logo=sas&logoColor=white)  
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+### Outils & Cloud  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
+
+### Visualisation  
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge&logo=python&logoColor=white)  
+![ggplot](https://img.shields.io/badge/ggplot-D14F4F?style=for-the-badge&logo=r&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+
+### Machine Learning & Stats  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+### Business Intelligence  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  
+![Business Object](https://img.shields.io/badge/Business%20Object-003366?style=for-the-badge&logo=sap&logoColor=white)  
+
+### Autres  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![API](https://img.shields.io/badge/API-0088CC?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+---
+
+# Soft Skills 🌟  
+
+- 📊 **Esprit analytique** – Capacité à extraire des insights pertinents et à proposer des recommandations data-driven.  
+- 🤝 **Travail en équipe** – Expérience en collaboration avec des équipes métiers, IT et marketing.  
+- 🎯 **Résolution de problèmes** – Approche méthodique pour résoudre des problématiques complexes.  
+- 🗣️ **Communication** – Capacité à vulgariser des concepts techniques pour les rendre accessibles aux non-experts.  
+- 🚀 **Adaptabilité** – Capacité à apprendre rapidement de nouvelles technologies et méthodologies.  
+
+---
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
