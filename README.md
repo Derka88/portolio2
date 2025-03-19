@@ -61,19 +61,60 @@ Je suis à la recherche d’une **nouvelle opportunité en data à partir de sep
 
 ---
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## 🎓 Formation  
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+### 📌 Master 2 Systèmes d'Information et Aide à la Décision (SIAD)  
+**Université de Lille** | 09/2023 - 09/2025  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+📚 **Compétences & matières clés** :  
+- 🔹 **Analyse de données** et **visualisation**  
+- 🔹 **Gestion et conception de bases de données relationnelles**  
+- 🔹 **Statistiques, économétrie & Machine Learning**  
+- 🔹 **Traitement du langage naturel (NLP)**  
+- 🔹 **Big Data**  
+
+---
+
+### 📌 Licence en Économie  
+**Université de Lille** | 09/2020 - 08/2023  
+
+📚 **Compétences & matières clés** :  
+- 🔹 **Microéconomie & Macroéconomie**  
+- 🔹 **Statistiques et économétrie**  
+- 🔹 **Théories et concepts économiques**  
+
+
+## 💼 Expériences Professionnelles  
+
+### 📌 Data Scientist (Stage + Alternance) | Okaïdi | 05-2024 - Aujourd’hui  
+
+### 🔹 Analyse de la segmentation client  
+- Réalisation d’analyses pour affiner la **connaissance client** et optimiser l’exploitation d’une segmentation récemment mise en place.  
+- Étude des comportements d’achat et des interactions clients avec les canaux digitaux et physiques.  
+
+🛠 **Technos** : SQL, Python, Looker, BigQuery  
+🚀 **Impact** : Meilleure compréhension des profils clients et **optimisation des stratégies marketing**.  
+
+---
+
+### 🔹 Migration de cas d’usages data  
+- Participation à la migration d’une **ancienne plateforme de données** vers une nouvelle.  
+- Analyse des cas d’usage existants, identification des sources dans le **nouvel environnement**, reconstruction des pipelines de données.  
+- Mise en place de tests et **recettes** pour garantir la qualité des migrations avant la mise en production.  
+
+🛠 **Technos** : SQL, BigQuery, GCP  
+🚀 **Impact** : Assurer la continuité des services data, **éviter toute perte d’information et garantir la fiabilité des analyses métier**.  
+
+---
+
+### 🔹 Construction d’un score d’appétence SMS  
+- Développement d’un **modèle de scoring** permettant d’identifier les clients les plus réceptifs aux campagnes SMS.  
+- Collaboration avec les équipes métier pour définir la variable cible et sélectionner les **features explicatives**.  
+- **Modélisation et tests** de performance avant la mise en production.  
+
+🛠 **Technos** : Python, Scikit-learn, SQL, BigQuery  
+🚀 **Impact** : **Amélioration du ciblage client et optimisation du budget CRM**.  
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
