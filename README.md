@@ -1,5 +1,7 @@
 # Data Scientist
 
+![wave_boy_han](/assets/img/image_garçon.png)
+
 **Bienvenue sur mon Portfolio**
 Merci d’avoir pris le temps de visiter mon portfolio. Si vous êtes ici, c’est que mon profil a retenu votre attention, et j’en suis ravi ! Vous trouverez ici plus de détails sur mes projets, compétences et expériences. Bonne lecture !
 
