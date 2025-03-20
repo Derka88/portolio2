@@ -2,8 +2,8 @@
 
 ![EEG Band Discovery](/assets/img/test.jpg)
 
-**Bienvenue sur mon Portfolio**
-Merci d’avoir pris le temps de visiter mon portfolio. Si vous êtes ici, c’est que mon profil a retenu votre attention, et j’en suis ravi ! Vous trouverez ici plus de détails sur mes projets, compétences et expériences. Bonne lecture !
+**Hello !! Bienvenue sur mon Portfolio**
+Si vous êtes ici, c’est que mon profil a retenu votre attention, et j’en suis ravi ! Vous trouverez ici plus de détails sur mes projets, compétences et expériences. Bonne lecture !
 
 ## À propos de moi
 
@@ -100,24 +100,57 @@ Je suis à la recherche d’une **nouvelle opportunité en data à partir de sep
 - Collaboration avec les équipes métier pour définir la variable cible et sélectionner les **features explicatives**.  
 - **Modélisation et tests** de performance avant la mise en production.  
 
-🛠 **Technos** : Python, Scikit-learn, SQL, BigQuery  
+🛠 **Technos** : Python, SQL, BigQuery ML  
 🚀 **Impact** : **Amélioration du ciblage client et optimisation du budget CRM**.  
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### 🏥 Conception d'une Base de Données pour un Cabinet Dentaire  
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+#### 🚀 Objectif  
+Développement d'une solution complète de gestion des données pour un cabinet dentaire, de la modélisation des données à la visualisation.  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+#### 🛠️ Technologies  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) ![Semarchy](https://img.shields.io/badge/Semarchy-0073CF?style=for-the-badge&logo=data&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+#### 📌 Réalisations  
+✅ **Conception du Modèle de Données** – Développement des modèles conceptuel et logique des données pour structurer l’information.  
+✅ **Pipeline d’Intégration de Données** – Mise en place d’un processus robuste pour collecter, transformer et charger les données avec des contrôles de qualité.  
+✅ **Dashboard de Suivi Client** – Construction d’un tableau de bord interactif permettant au cabinet dentaire d’analyser sa base client et d’améliorer la gestion des rendez-vous et des dossiers patients.  
 
-![Bike Study](/assets/img/bike_study.jpeg)
+#### 🎯 Résultats  
+🔹 **Meilleure visibilité** sur la base client et les performances du cabinet  
+🔹 **Optimisation des processus internes** grâce à une gestion efficace des données  
+🔹 **Amélioration de la prise de décision** avec des analyses et des indicateurs clés  
+
+📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
+
+---
+
+### 🚗 Étude des Impacts des Mesures de Sécurité Routière sur les Autoroutes Françaises  
+
+#### 🚀 Objectif  
+Analyser l’efficacité des différentes mesures de sécurité routière mises en place sur les autoroutes françaises en évaluant leur impact sur le nombre d’accidents et de décès.  
+
+#### 🛠️ Technologies  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+### 📌 Réalisations  
+✅ **Exploration des Données** – Analyse d’une base de données fournie contenant des informations sur les accidents autoroutiers en France.  
+✅ **Collecte et Intégration des Mesures de Sécurité** – Recherche des différentes politiques et mesures de sécurité routière mises en place au fil des années.  
+✅ **Analyse Exploratoire et Visualisation** – Étude de l’évolution du nombre d’accidents et de décès en fonction des mesures mises en place.  
+✅ **Modélisation Statistique** – Évaluation quantitative de l’impact des mesures via des analyses statistiques et des visualisations interactives.  
+✅ **Recommandations Basées sur les Données** – Identification des stratégies de sécurité les plus efficaces et propositions d’amélioration.  
+
+### 🎯 Résultats  
+🔹 **Mise en évidence des mesures les plus impactantes** en matière de réduction des accidents et de la mortalité routière.  
+🔹 **Visualisation des tendances clés** et des périodes à risque.  
+🔹 **Propositions concrètes** pour optimiser la sécurité routière à partir des résultats obtenus.  
+
+📂 **Lien vers le projet** : [🔗 Voir le projet](#)  
+
+---
 
 ## 🌍 Langues  
 - 🇫🇷 **Français** – Langue maternelle  
@@ -130,3 +163,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - 📊 **Sport & Data** – Intérêt pour l'analyse de la performance sportive  
 
 > *J’explore les liens entre sport et data science, avec un intérêt particulier pour l’analyse des performances des joueurs et des stratégies d’équipe.*
+> **Merci d’avoir pris le temps de visiter mon portfolio.** 
