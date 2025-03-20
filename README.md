@@ -1,6 +1,6 @@
 # Data Scientist
 
-<img src="/assets/img/image_garçon.png" alt="Description" width="200">
+<img src="/assets/img/image_garcon.png" alt="Description" width="200">
 
 
 **Bienvenue sur mon Portfolio**
